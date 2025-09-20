@@ -6,3 +6,8 @@ abstract class Controller
 {
     halow sasa
 }
+
+abstract class Controller
+{
+    halow najwa
+}
